@@ -1,0 +1,24 @@
+
+mcom.infosys.ecart.ProductMS.controller.ProductController#removeProduct(Ljava/lang/Integer;)Ljava/lang/String;~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javak k("1*¾
+1~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javal	 l(•
+’
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javal	 l(8
+%02com.infosys.ecart.ProductMS.service.ProductService"__id*P*N:
+8com.infosys.ecart.ProductMS.controller.ProductController"
+productServiceƒ€
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javal	 l(-
+%1java.lang.String"gcom.infosys.ecart.ProductMS.service.ProductService#removeProduct(Ljava/lang/Integer;)Ljava/lang/String;*:
+8
+%02com.infosys.ecart.ProductMS.service.ProductService*
+
+prodIdjava.lang.Integer2"removeProduct(Ljava/lang/Integer;)"š
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javal l(.
+
+%1java.lang.String:
+prodIdjava.lang.IntegerB<:
+8com.infosys.ecart.ProductMS.controller.ProductController

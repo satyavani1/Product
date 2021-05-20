@@ -1,0 +1,14 @@
+com\infosys\ecart\ProductMS\utility\ExceptionControllerAdvice.class
+com\infosys\ecart\ProductMS\dto\SubscribedProuctDTO.class
+com\infosys\ecart\ProductMS\entity\CompositeIDclass.class
+com\infosys\ecart\ProductMS\entity\SubscribedProduct.class
+com\infosys\ecart\ProductMS\ProductMsApplication.class
+com\infosys\ecart\ProductMS\dto\ProductDTO.class
+com\infosys\ecart\ProductMS\exception\ProductMSException.class
+com\infosys\ecart\ProductMS\repository\ProductRepository.class
+com\infosys\ecart\ProductMS\controller\ProductController.class
+com\infosys\ecart\ProductMS\repository\SubscribedProductRepository.class
+com\infosys\ecart\ProductMS\service\ProductService.class
+com\infosys\ecart\ProductMS\entity\Product.class
+com\infosys\ecart\ProductMS\service\ProductServiceImpl.class
+com\infosys\ecart\ProductMS\utility\ErrorInfo.class

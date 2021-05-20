@@ -1,0 +1,7 @@
+organization=satyavani1
+projectKey=satyavani1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20278
+dashboardUrl=https://sonarcloud.io/dashboard?id=satyavani1
+ceTaskId=AXmLYYhYRLiuqB26qAYN
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmLYYhYRLiuqB26qAYN

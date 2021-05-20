@@ -1,0 +1,24 @@
+
+ycom.infosys.ecart.ProductMS.controller.ProductController#getPriceAndStockForAProduct(Ljava/lang/Integer;)Ljava/util/List;~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javay y(/"1*¾
+1~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaz	 z(•
+’
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaz	 z(8
+%02com.infosys.ecart.ProductMS.service.ProductService"__id*P*N:
+8com.infosys.ecart.ProductMS.controller.ProductController"
+productService…‚
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaz	 z(0
+%1java.util.List"hcom.infosys.ecart.ProductMS.service.ProductService#getPriceAndStock(Ljava/lang/Integer;)Ljava/util/List;*:
+8
+%02com.infosys.ecart.ProductMS.service.ProductService*
+
+prodIdjava.lang.Integer2%getPriceAndStock(Ljava/lang/Integer;)"˜
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaz z(1
+
+%1java.util.List:
+prodIdjava.lang.IntegerB<:
+8com.infosys.ecart.ProductMS.controller.ProductController

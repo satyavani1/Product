@@ -1,0 +1,50 @@
+
+ócom.infosys.ecart.ProductMS.controller.ProductController#addToSubscriptionlist(Lcom/infosys/ecart/ProductMS/dto/SubscribedProuctDTO;)Ljava/lang/String;~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.java? ?($"startingBlock*Î
+startingBlock~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.java?$ ?([Ö
+Ç
+
+__unknown_file (
+%2"__id*Z*X
+K
+subscribedProductDTO3com.infosys.ecart.ProductMS.dto.SubscribedProuctDTO"	
+buyerId÷
+”
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.java?% ?(1
+%3"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%2Û
+
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.java?F ?(ZX
+K
+subscribedProductDTO3com.infosys.ecart.ProductMS.dto.SubscribedProuctDTO"	
+buyerId"__annotation*
+
+%3*
+1*Õ
+1~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaD	 D(ï
+í
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaD	 D(8
+%02com.infosys.ecart.ProductMS.service.ProductService"__id*P*N:
+8com.infosys.ecart.ProductMS.controller.ProductController"
+productServiceíè
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaD	 D(H
+%1java.lang.String"ñcom.infosys.ecart.ProductMS.service.ProductService#addProductToSubscribedlist(Lcom/infosys/ecart/ProductMS/dto/SubscribedProuctDTO;)Ljava/lang/String;*:
+8
+%02com.infosys.ecart.ProductMS.service.ProductService*M
+K
+subscribedProductDTO3com.infosys.ecart.ProductMS.dto.SubscribedProuctDTO2QaddProductToSubscribedlist(Lcom/infosys/ecart/ProductMS/dto/SubscribedProuctDTO;)"ö
+~
+tC:/Users/VANI/Desktop/seperate/ProductMS/src/main/java/com/infosys/ecart/ProductMS/controller/ProductController.javaD D(I
+
+%1java.lang.String:K
+subscribedProductDTO3com.infosys.ecart.ProductMS.dto.SubscribedProuctDTOB<:
+8com.infosys.ecart.ProductMS.controller.ProductController
