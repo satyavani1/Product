@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN: SonarCredentials:sonartoken
-    HOST: SonarCredentials:host
-    Organization: SonarCredentials:organization
-    Project: SonarCredentials:projectKey
+    LOGIN: productsecret:sonartoken
+    HOST: productsecret:host
+    Organization: productsecret:organization
+    Project: productsecret:projectKey
 
 phases:
   install:
